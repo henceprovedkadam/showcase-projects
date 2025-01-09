@@ -10,3 +10,6 @@ A growing collection of my personal projects, showcasing design, creativity, and
    - A personal portfolio showcasing my skills and projects.
    - Features: Clean design, fully responsive.
 
+3. **Single-Digit Calculator**
+   - A simple calculator capable of performing operations on single-digit numbers.
+   - Features: Minimalist design, clean layout, and easy-to-use interface.
