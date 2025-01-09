@@ -1,0 +1,1 @@
+Works only for single digit numbers and solutions are not standard (not bodmas).

@@ -1,0 +1,7 @@
+1. not based on bodmas. 
+2. double digits cannot be used.
+3. Operator validations like: 3+3++1. (+, -, /, x)
+4. zero cannot be entered multiple times before any number like: 001000 but instead 10000.
+5. decimal system is not yet used.
+6. responsive issue yet to be solve.
+7. the limit of number that can be entered and its UI.
